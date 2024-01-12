@@ -38,7 +38,7 @@ sections:
           # company_logo: org-x
           location: Qiangdao, China
           date_start: '2019-06-01'
-          date_end: '2020-2-28'
+          date_end: '2020-02-01'
           description: |2-
               My task is to detect hidden dangers in transmission lines by utilizing lightweight convolutional neural networks such as ShuffleNet and MobileNet, as well as object detection models like Faster R-CNN.
     design:
@@ -76,8 +76,8 @@ sections:
       # appointment_url: 'https://calendly.com'
       address:
         street: 1500 ShunHua Road
-        city: Jinan
         region: High Tech Industrial Development Zone
+        city: Jinan
         postcode: '250101'
         country: China
         country_code: CN
