@@ -72,12 +72,12 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
+    id: awards
     content:
-      title: Recent & Upcoming Talks
+      title: Honors & Awards
       filters:
         folders:
-          - event
+          - awards
     design:
       columns: '2'
       view: compact
@@ -85,20 +85,17 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: yunxiao.wang@mail.sdu.edu.cn
+      phone: +86 15621387188
+      # appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 1500 ShunHua Road
+        city: Jinan
+        region: High Tech Industrial Development Zone
+        postcode: '250101'
+        country: China
+        country_code: CN
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
