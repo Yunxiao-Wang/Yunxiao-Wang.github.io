@@ -20,7 +20,7 @@ url_pdf: https://dl.acm.org/doi/pdf/10.1145/3581783.3613846
 url_code: https://acmmm2023.wixsite.com/fagm
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 ---

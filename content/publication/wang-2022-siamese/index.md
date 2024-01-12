@@ -19,7 +19,7 @@ abstract: Video moment retrieval, i.e., localizing the specific video moments wi
 url_pdf: https://drive.google.com/file/d/1zDUAav9KPINS_3_5FHlUf-8RaX6kh29K/view
 url_code: https://sancode.wixsite.com/san-model
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 ---

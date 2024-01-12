@@ -17,7 +17,7 @@ abstract: Video moment localization, also known as video moment retrieval, aims 
 url_pdf: https://dl.acm.org/doi/pdf/10.1145/3556537
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 ---
