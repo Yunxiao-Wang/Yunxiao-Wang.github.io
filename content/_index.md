@@ -58,13 +58,13 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: markdown
-    id: awards
-    content:
-      title: Honors & Awards
-      text: 
-        - a
-        - b
+  # - block: markdown
+  #   id: awards
+  #   content:
+  #     title: Honors & Awards
+  #     text: 
+  #       - a
+  #       - b
   - block: contact
     id: contact
     content:
