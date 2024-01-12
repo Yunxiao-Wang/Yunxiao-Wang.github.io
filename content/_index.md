@@ -30,8 +30,7 @@ sections:
           location: Weifang, China
           date_start: '2018-10-01'
           date_end: '2019-05-31'
-          description: |2-
-              My task is to automatically input product information by utilizing natural scene text detection models like EAST, CTPN, and text recognition models like CRNN to detect and identify irregularly arranged words on the product nameplate.
+          description: My task is to automatically input product information by utilizing natural scene text detection models like EAST, CTPN, and text recognition models like CRNN to detect and identify irregularly arranged words on the product nameplate.
         - title: Lightweight Detection of Hidden Dangers in Transmission Line (Shanda-Zhiyang Joint Laboratory)
           company: Project Team Member
           company_url: ''
@@ -39,8 +38,7 @@ sections:
           location: Qiangdao, China
           date_start: '2019-06-01'
           date_end: '2020-02-01'
-          description: |2-
-              My task is to detect hidden dangers in transmission lines by utilizing lightweight convolutional neural networks such as ShuffleNet and MobileNet, as well as object detection models like Faster R-CNN.
+          description: My task is to detect hidden dangers in transmission lines by utilizing lightweight convolutional neural networks such as ShuffleNet and MobileNet, as well as object detection models like Faster R-CNN.
     design:
       columns: '2'
   - block: collection
@@ -58,13 +56,13 @@ sections:
     design:
       columns: '2'
       view: citation
-  # - block: markdown
-  #   id: awards
-  #   content:
-  #     title: Honors & Awards
-  #     text: 
-  #       - a
-  #       - b
+   - block: markdown
+     id: awards
+     content:
+       title: Honors & Awards
+       text: sdsdsdsdsd
+     design:
+       columns: '2'
   - block: contact
     id: contact
     content:
@@ -72,7 +70,6 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: yunxiao.wang@mail.sdu.edu.cn
       phone: +86 15621387188
-      # appointment_url: 'https://calendly.com'
       address:
         street: 1500 ShunHua Road
         region: High Tech Industrial Development Zone
@@ -80,24 +77,7 @@ sections:
         postcode: '250101'
         country: China
         country_code: CN
-      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      # office_hours:
-      #   - 'Monday 10:00 to 13:00'
-      #   - 'Wednesday 09:00 to 10:00'
-      # # Choose a map provider in `params.yaml` to show a map from these coordinates
-      # coordinates:
-      #   latitude: '37.4275'
-      #   longitude: '-122.1697'  
-      # Automatically link email and phone or display as text?
       autolink: true
-      # # Email form provider
-      # form:
-      #   provider: netlify
-      #   formspree:
-      #     id:
-      #   netlify:
-      #     # Enable CAPTCHA challenge to reduce spam?
-      #     captcha: false
     design:
       columns: '2'
 ---
