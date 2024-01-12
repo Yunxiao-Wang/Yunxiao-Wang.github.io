@@ -52,13 +52,13 @@ sections:
     design:
       columns: '2'
       view: citation
-   - block: markdown
-     id: awards
-     content:
-       title: Honors & Awards
-       text: sdsdsdsdsd
-     design:
-       columns: '2'
+  - block: markdown
+    id: awards
+    content:
+      title: Honors & Awards
+      text: sdsdsdsdsd
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
