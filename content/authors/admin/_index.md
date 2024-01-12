@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 王蕴潇
+title: Yunxiao Wang
 
 # Name pronunciation (optional)
-name_pronunciation: Yunxiao Wang
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Yunxiao
