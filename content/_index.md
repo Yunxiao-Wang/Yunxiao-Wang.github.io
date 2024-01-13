@@ -27,7 +27,7 @@ sections:
         - title: Product Nameplate Text Recognition 
           company: Data Analysis Intern, Weichai Power Co., LTD
           # company_url: 'https://www.weichaipower.com/'
-          # company_logo: org-1
+          company_logo: number-1
           location: Weifang, China
           date_start: '2018-10-01'
           date_end: '2019-05-31'
@@ -35,7 +35,7 @@ sections:
         - title: Lightweight Detection of Hidden Dangers in Transmission Line
           company: Project Team Member, Shanda-Zhiyang Joint Laboratory
           company_url: ''
-          # company_logo: org-2
+          company_logo: number-2
           location: Qiangdao, China
           date_start: '2019-06-01'
           date_end: '2020-02-01'
@@ -52,7 +52,7 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      view: citation
+      view: compact
   - block: markdown
     id: services
     content:
