@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Power of Multimodal Learning for Emotion Recognition in Conversation
 authors:
-- Yunxiao Wang
+- Yunxiao_Wang
 - Meng Liu
 - Zhe Li
 - Yupeng Hu

@@ -1,7 +1,7 @@
 ---
 title: Siamese alignment network for weakly supervised video moment retrieval
 authors:
-- Yunxiao Wang
+- Yunxiao_Wang
 - Meng Liu
 - Yinwei Wei
 - Zhiyong Cheng

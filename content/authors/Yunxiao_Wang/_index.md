@@ -38,13 +38,13 @@ interests:
 education:
   courses:
     - course: Ph.D in Artificial Intelligence
-      institution: Shandong University
+      institution: School of Software, Shandong University
       year: Sep 2022 - Now
     - course: M.S in Computer Technology
-      institution: Shandong University
+      institution: School of Computer Science and Technology, Shandong University
       year: Sep 2019 - Jun 2022
     - course: B.S in Internet of Things Engineering
-      institution: China University of Petroleum (East China)
+      institution: School of Computer Science and Technology, China University of Petroleum (East China)
       year: Sep 2015 - Jun 2019
 
 # Skills

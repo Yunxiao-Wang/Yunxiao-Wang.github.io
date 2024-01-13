@@ -3,7 +3,7 @@ title: A survey on video moment localization
 authors:
 - Meng Liu
 - Liqiang Nie
-- Yunxiao Wang
+- Yunxiao_Wang
 - Meng Wang
 - Yong Rui
 date: '2023-01-16'
