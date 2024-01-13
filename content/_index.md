@@ -39,9 +39,7 @@ sections:
           location: Qiangdao, China
           date_start: '2019-06-01'
           date_end: '2020-02-01'
-          description: |2-
-          My task is to detect hidden dangers in transmission lines by utilizing lightweight convolutional neural networks such as ShuffleNet and MobileNet, as well as object detection models like Faster R-CNN.
-          {style="text-align: justify;"}
+          description: My task is to detect hidden dangers in transmission lines by utilizing lightweight convolutional neural networks such as ShuffleNet and MobileNet, as well as object detection models like Faster R-CNN.
     design:
       columns: '2'
   - block: collection
