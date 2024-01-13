@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-My name is Yunxiao Wang (王蕴潇). I am currently a Ph.D. candidate at the School of Software, Shandong University, Jinan, China. I advised by <a href="https://liqiangnie.github.io/index.html" target="_blank" style="color:blue;">Prof. Liqiang Nie</a> and <a href="https://mengliu1991.github.io/" target="_blank" style="color:blue;">Prof. Meng Liu</a>. My research focused on multimedia computing, affective computing and information retrieval. I obtained my M.S. degree in Shandong University, China, in 2022 and B.S. degree from China University of Petroleum (East China), China in 2019.
+My name is Yunxiao Wang (王蕴潇). I am currently a Ph.D. candidate at the School of Software, Shandong University, Jinan, China. I advised by <a href="https://liqiangnie.github.io/index.html" target="_blank" style="color:blue;">Prof. Liqiang Nie</a> and <a href="https://mengliu1991.github.io/" target="_blank" style="color:blue;">Prof. Meng Liu</a>. My research focused on multimedia computing, affective computing and information retrieval. I obtained my M.S. degree in Shandong University, China, in 2022 and B.S. degree from China University of Petroleum (East China), China, in 2019.
 {style="text-align: justify;"}
