@@ -54,6 +54,16 @@ sections:
       columns: '2'
       view: citation
   - block: markdown
+    id: services
+    content:
+      title: Professional Services
+      text: |2-
+         Reviewer for:
+         - IEEE Transactions on Knowledge and Data Engineering
+         - IEEE Transactions on Circuits and Systems for Video Technology
+         - IEEE Transactions on Multimedia
+         - Information Sciences
+  - block: markdown
     id: awards
     content:
       title: Honors & Awards
