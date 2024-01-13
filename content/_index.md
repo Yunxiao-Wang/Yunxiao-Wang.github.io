@@ -63,6 +63,8 @@ sections:
          - IEEE Transactions on Circuits and Systems for Video Technology
          - IEEE Transactions on Multimedia
          - Information Sciences
+    design:
+      columns: '2'
   - block: markdown
     id: awards
     content:
