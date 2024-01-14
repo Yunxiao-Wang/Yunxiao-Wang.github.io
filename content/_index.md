@@ -33,7 +33,7 @@ sections:
           date_end: '2019-05-31'
           description: My task is to automatically input product information by utilizing natural scene text detection models like EAST, CTPN, and text recognition models like CRNN to detect and identify irregularly arranged words on the product nameplate. 
         - title: Lightweight Detection of Hidden Dangers in Transmission Line
-          company: Project Team Member, Shanda-Zhiyang Joint Laboratory
+          company: Team Member, Cooperation Project with Zhiyang Innovation Technology Co., LTD.
           company_url: ''
           company_logo: org-x
           location: Qiangdao, China
