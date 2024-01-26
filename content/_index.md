@@ -40,7 +40,7 @@ sections:
           date_start: '2019-06-01'
           date_end: '2020-02-01'
           description: My task is to detect hidden dangers in transmission lines by utilizing lightweight convolutional neural networks such as ShuffleNet and MobileNet, as well as object detection models like Faster R-CNN.
-          - title: Approximate Nearest Neighbor Search Algorithm Research
+        - title: Approximate Nearest Neighbor Search Algorithm Research
           company: Member, Cooperation Project with Huawei Technologies Co., LTD.
           company_url: ''
           company_logo: org-xx
