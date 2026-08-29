@@ -14,7 +14,7 @@ sections:
   - block: experience
     id: experience
     content:
-      title: Project Experience
+      title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -24,36 +24,46 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Product Nameplate Text Recognition 
-          company: Data Analysis Intern, Weichai Power Co., LTD
-          # company_url: 'https://www.weichaipower.com/'
+        - title: Visiting Research Student
+          company: CoAgent Lab, Singapore Management University
+          company_url: ''
           company_logo: org-gc
+          location: Singapore
+          date_start: '2026-02-26'
+          date_end: ''
+          description: I work on conversational personality assessment, and on [KakiPal](https://www.kakipal.com/), an AI learning companion that pairs Socratic tutoring with camera-free affect sensing. KakiPal is in production and in use in university teaching.
+        - title: Research Intern
+          company: Foundation Model & Applications Department, Kuaishou Technology
+          company_url: ''
+          company_logo: org-x
+          location: Beijing, China
+          date_start: '2024-07-01'
+          date_end: '2025-12-31'
+          description: I worked on video large language models, covering temporal-sensitive instruction tuning with a shortcut-filtered benchmark for temporal understanding (AAAI 2026, Oral), and an agentic thinking-with-videos framework that unifies temporal grounding with question answering (ICML 2026).
+        - title: Lightweight Detection of Hidden Dangers in Transmission Line
+          company: Member, Cooperation Project with Zhiyang Innovation Technology Co., Ltd.
+          company_url: ''
+          company_logo: org-xx
+          location: Qingdao, China
+          date_start: '2019-06-01'
+          date_end: '2020-02-01'
+          description: I built a lightweight detector for transmission-line inspection, pairing ShuffleNet and MobileNet feature extractors with a Faster R-CNN framework.
+        - title: Product Nameplate Text Recognition
+          company: Data Analysis Intern, Weichai Power Co., LTD
+          company_url: ''
+          company_logo: org-xxx
           location: Weifang, China
           date_start: '2018-10-01'
           date_end: '2019-05-31'
-          description: My task is to automatically input product information by utilizing natural scene text detection models like EAST, CTPN, and text recognition models like CRNN to detect and identify irregularly arranged words on the product nameplate. 
-        - title: Lightweight Detection of Hidden Dangers in Transmission Line
-          company: Member, Cooperation Project with Zhiyang Innovation Co., LTD.
-          company_url: ''
-          company_logo: org-x
-          location: Qiangdao, China
-          date_start: '2019-06-01'
-          date_end: '2020-02-01'
-          description: My task is to detect hidden dangers in transmission lines by utilizing lightweight convolutional neural networks such as ShuffleNet and MobileNet, as well as object detection models like Faster R-CNN.
-        - title: Approximate Nearest Neighbor Search Algorithm Research
-          company: Member, Cooperation Project with Huawei Technologies Co., LTD.
-          company_url: ''
-          company_logo: org-xx
-          location: Jinan, China
-          date_start: '2022-06-01'
-          date_end: '2023-01-01'
-          description: My task involves contributing to the enhancement of graph indexing algorithms, such as HNSW, in order to enable support for attribute-based hybrid indexing.
+          description: I detected and recognised irregularly arranged text on product nameplates with EAST and CTPN detection and CRNN recognition, automating product-information entry.
     design:
       columns: '2'
   - block: collection
     id: publication
     content:
       title: Publications
+      # Show all publications rather than the default five
+      count: 0
       filters:
         folders:
           - publication
@@ -62,11 +72,35 @@ sections:
       columns: '2'
       view: compact
   - block: markdown
+    id: patents
+    content:
+      title: Patents & Standards
+      text: |2-
+         Chinese invention patents:
+         - CN113590881B — Video clip retrieval and retrieval-model training
+         - CN117271743B — Multimodal dialogue emotion recognition
+         - CN118898797B — Commonsense-enhanced candidate generation for video action segments
+         - CN119670896B — Temporally enhanced video question answering
+         - CN120747839B — User behaviour prediction for smart homes
+         - CN120805980A — Quantized multimedia question answering for smart-home edge devices (under examination)
+
+         Standards, as a co-drafter:
+         - SJ/T 12100-2026 — Industrial AI vision online inspection systems for the power industry (industry standard, 2026)
+         - T/CESA 1298-2023 / T/CES 247-2023 — Industrial AI vision online inspection systems for transmission lines (group standard, 2023)
+    design:
+      columns: '2'
+  - block: markdown
     id: services
     content:
       title: Professional Services
       text: |2-
-         Reviewer for:
+         Conference reviewer for:
+         - AAAI Conference on Artificial Intelligence (AAAI)
+         - ACM International Conference on Multimedia (ACM MM)
+         - Annual Meeting of the Association for Computational Linguistics (ACL)
+         - Conference on Neural Information Processing Systems (NeurIPS)
+
+         Journal reviewer for:
          - IEEE Transactions on Knowledge and Data Engineering
          - IEEE Transactions on Circuits and Systems for Video Technology
          - IEEE Transactions on Multimedia
@@ -99,7 +133,6 @@ sections:
       title: Contact
       # Contact (add or remove contact options as necessary)
       email: yunxiao.wang@mail.sdu.edu.cn
-      phone: +86 15621387188
       address:
         street: 1500 ShunHua Road, High Tech Industrial Development Zone
         region: Shandong

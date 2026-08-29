@@ -1,0 +1,42 @@
+---
+title: 'TIME: Temporal-Sensitive Multi-Dimensional Instruction Tuning and Robust Benchmarking
+  for Video-LLMs'
+authors:
+- Yunxiao_Wang
+- Meng Liu
+- Wenqi Liu
+- Xuemeng Song
+- Bin Wen
+- Fan Yang
+- Tingting Gao
+- Di Zhang
+- Guorui Zhou
+- Liqiang Nie
+date: '2026-01-20'
+publishDate: '2026-08-24T00:00:00Z'
+publication_types:
+- paper-conference
+publication: '*Proceedings of the AAAI Conference on Artificial Intelligence*'
+publication_short: "*AAAI 2026*, Oral"
+
+summary: AAAI 2026 (Oral)
+
+abstract: >-
+  Video large language models have achieved remarkable performance in tasks such as video question answering,
+  however, their temporal understanding remains suboptimal. To address this limitation, we curate a dedicated
+  instruction fine-tuning dataset that focuses on enhancing temporal comprehension across five key dimensions.
+  In order to reduce reliance on costly temporal annotations, we introduce a multi-task prompt fine-tuning
+  approach that seamlessly integrates temporal-sensitive tasks into existing instruction datasets without
+  requiring additional annotations. Furthermore, we develop a novel benchmark for temporal-sensitive video
+  understanding that not only fills the gaps in dimension coverage left by existing benchmarks but also
+  rigorously filters out potential shortcuts, ensuring a more accurate evaluation. Extensive experimental
+  results demonstrate that our approach significantly enhances the temporal understanding of video-LLMs while
+  avoiding reliance on shortcuts.
+
+url_pdf: https://arxiv.org/pdf/2503.09994
+url_code: https://github.com/Yunxiao-Wang/TIME
+
+image:
+  focal_point: ""
+  preview_only: false
+---

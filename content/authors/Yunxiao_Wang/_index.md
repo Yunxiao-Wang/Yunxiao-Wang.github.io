@@ -25,13 +25,13 @@ organizations:
     url: https://www.sdu.edu.cn/index.htm
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include multimedia computing, affective computing and information retrieval.
+bio: My research interests include multimodal large language models, affective computing and conversational AI.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Multimedia Computing
+  - Multimodal Large Language Models
   - Affective Computing
+  - Conversational AI
   - Information Retrieval
 
 # Education to show in About widget
@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-My name is Yunxiao Wang (王蕴潇). I am currently a Ph.D. candidate at the School of Software, Shandong University, Jinan, China. I advised by <a href="https://liqiangnie.github.io/index.html" target="_blank" style="color:blue;">Prof. Liqiang Nie</a> and <a href="https://mengliu1991.github.io/" target="_blank" style="color:blue;">Prof. Meng Liu</a>. My research focused on multimedia computing, affective computing and information retrieval. I obtained my M.S. degree in Shandong University, China, in 2022 and B.S. degree from China University of Petroleum (East China), China, in 2019.
+My name is Yunxiao Wang (王蕴潇). I am a Ph.D. candidate at the School of Software, Shandong University, Jinan, China, advised by <a href="https://liqiangnie.github.io/index.html" target="_blank" style="color:blue;">Prof. Liqiang Nie</a> and <a href="https://mengliu1991.github.io/" target="_blank" style="color:blue;">Prof. Meng Liu</a>. Since February 2026 I have been a visiting research student at the CoAgent Lab, Singapore Management University, hosted by <a href="https://liziliao.github.io/" target="_blank" style="color:blue;">Prof. Lizi Liao</a>. My research covers multimodal large language models, affective computing and conversational AI. I obtained my M.S. degree from Shandong University in 2022 and my B.S. degree from China University of Petroleum (East China) in 2019.
 {style="text-align: justify;"}
